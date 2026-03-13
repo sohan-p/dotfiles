@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor swap/backup files
+*.swp
+*.swo
+*~
+*.bak
+
+# Local overrides (user can create these to layer on machine-specific config)
+*.local
+
+# Secrets - never commit
+.env
+*.pem
+*.key
+credentials*

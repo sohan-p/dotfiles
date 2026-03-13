@@ -1,0 +1,5 @@
+[user]
+	name = GITUSER
+	email = GITEMAIL
+[http]
+	postBuffer = 524288000

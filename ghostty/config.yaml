@@ -1,0 +1,8 @@
+gpu-accelerated: true
+vsync: true
+max-frame-rate: 120
+background-opacity: 0.45
+
+debug-gpu-stats: true
+performance-overlay: true
+
